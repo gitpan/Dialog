@@ -12,6 +12,7 @@ extern "C" {
 
 /*#include "dialog.h"*/
 #include <stdlib.h>
+#define instr ncurses_instr
 #include <dialog.h>
 
 #define uchar unsigned char
